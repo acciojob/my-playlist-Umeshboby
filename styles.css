@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+:root{
+	background-color:rgb(204, 204, 204);
+}
+h1{
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+h3{
+		text-align:center;
+}
+
+.ul{
+
+	margin-left:10px;
+	padding:20px;
+	list-style:none;
+	width:700px;
+	background-color:white;
+	border:solid 3px;
+	border-radius:10px;
+
+}
+
+a{
+	color:black;
+	text-decoration:none;	
+}
+.vid{
+	background-color:white;
+	border:solid 3px;
+
+
+}
