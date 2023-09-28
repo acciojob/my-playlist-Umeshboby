@@ -1,43 +1,57 @@
 /*  your css code here. If applicable */
-:root{
-	background-color:rgb(204, 204, 204);
+body{
+  background-color:rgb(204,204,204) ;
 }
-h1{
-	text-align:center;
+.htag{
+text-align: center;
 }
-h2{
-	text-align:center;
-}
-h3{
-		text-align:center;
-}
+.list{
+  list-style-type: none;
+  background-color: white;
+  
+  }
+  li{
+    float: up down;
+    background-color: white;
+  }
+  .white1{
+    background-color: white;
+    border-radius: 100px;
+  }
+  .white2{
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+    list-style-type: none                       ;
+    background-color: white;
+    border: solid;
+    
+  }
+  .player_one{
+    margin: 0%;
+   
+    overflow: hidden;
+    list-style-type: none                       ;
+    background-color:rgb(255,255,255);
+	   border-radius: 0%;
+	   padding: 0%;
+    border: solid;
+    
+  }
+  .player_two{
+    margin: 0%;
+    background-color:rgb(255,255,255);
+	   border-radius: 0%;
+	   padding: 0%;
+    overflow: hidden;
+    list-style-type: none                       ;
+    background-color: white;
 
-.ul{
-
-	margin-left:10px;
-	padding:20px;
-	list-style:none;
-	width:700px;
-	background-color:white;
-	border:solid 3px;
-	border-radius:10px;
-
-}
-
-a{
-	color:black;
-	text-decoration:none;	
-}
-.video{
-	width:90%;
-	
-	margin-left:10px;
-	padding:20px;
-	list-style:none;
-	
-	background-color:white;
-	border:solid 3px;
-	border-radius:10px;
-}
-
-}
+  }
+  .h3tag{
+    background-color: white;
+    text-align: center;
+  }
+  .ta{
+    background-color: white;
+  }
